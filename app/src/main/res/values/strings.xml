@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Number Guessing Game</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="mainTitle">Random Number Guessing Game</string>
+    <string name="newGuessTitle">New Guess:</string>
+    <string name="lastGuessTitle">Your last guess:</string>
+    <string name="hintTitle">Number should be:</string>
+    <string name="hintHigher">Higher</string>
+    <string name="hintLower">Lower</string>
+    <string name="submitButton">Make your guess!</string>
+    <string name="restartText">Restart</string>
+
+</resources>
